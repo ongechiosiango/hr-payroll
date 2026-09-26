@@ -1,15 +1,13 @@
-# utility-tool-3
+# HR Payroll
 
-A small auto-generated utility project.
+Computes net pay from gross salary, tax rate, and deductions.
 
 ## Usage
 
-    python3 main.py
+    python3 payroll.py
 
 ## What it teaches
 
-- Python entry points
-- Basic module structure
-
----
-_Daily learning project, initiated on 2026-09-22._
+- Dataclasses with computed properties
+- Money handling patterns
+- Clear domain modeling
